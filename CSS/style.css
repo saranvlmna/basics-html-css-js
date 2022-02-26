@@ -1,0 +1,19 @@
+.c_red{
+    color: red;
+}
+p{
+    color: blue;
+    background-color: aquamarine;
+    padding-top: 5cm;
+    margin-bottom: 2cm;
+}
+button{
+    color: #00574f;
+    background-color: #00a8a8;
+    
+}
+#title{
+    color: #ff0000;
+    background-color: #202020;
+    padding-top: 20px;
+}
